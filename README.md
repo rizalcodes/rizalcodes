@@ -106,6 +106,8 @@ class RizalCodes:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rizalcodes&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizalcodes&theme=tokyo-night&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&hide_border=true)
+
 </div>
 
 ---
