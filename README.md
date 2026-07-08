@@ -44,8 +44,8 @@ class RizalCodes:
     @property  
     def currently(self):
         return [
-            "🔨 Building LLM-powered projects",
-            "🌱 Contributing to FOSSASIA open source",
+            "🔨 Building LLM-powered projects (RAG → AI Agent → MCP)",
+            "✅ FOSSASIA open source PR #4186 merged!",
             "📊 Available for freelance — Data & Automation",
         ]
 ```
@@ -92,7 +92,7 @@ class RizalCodes:
 
 ## 🌐 Open Source
 
-- ✅ **FOSSASIA eventyay** — PR [#4186](https://github.com/fossasia/eventyay-tracker/pull/4186) merged · Python · Django
+- ✅ **FOSSASIA eventyay** — PR [#4186](https://github.com/fossasia/eventyay/pull/4186) merged · Python · Django · Reviewed & approved by 3 maintainers
 
 ---
 
