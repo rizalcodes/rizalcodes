@@ -60,6 +60,7 @@ class RizalCodes:
 | 🔗 **URL Shortener + Analytics API** — GeoIP tracking, rate limiting, JWT | FastAPI · PostgreSQL · GeoIP | [▶ GitHub](https://github.com/rizalcodes/url-shortener-api) |
 | 🔐 **CryptoVault API** — Portfolio tracker with PnL analytics | FastAPI · PostgreSQL · CoinGecko | [▶ GitHub](https://github.com/rizalcodes/cryptovault-api) |
 | 🤖 **Web3 Analytics Telegram Bot** — 11 modules, deployed on VPS | Web3.py · Telegram API · systemd | [▶ GitHub](https://github.com/rizalcodes) |
+| 🧹 **dataqual** — CLI tool auditing CSV/Excel/PostgreSQL datasets for missing values, duplicates & outliers | Python · Typer · Pandas · Rich | [▶ GitHub](https://github.com/rizalcodes/dataqual) |
 
 ---
 
@@ -74,6 +75,8 @@ class RizalCodes:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-000000?style=for-the-badge&logo=python&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-FF6E00?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
