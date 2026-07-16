@@ -61,6 +61,7 @@ class RizalCodes:
 | 🔐 **CryptoVault API** — Portfolio tracker with PnL analytics | FastAPI · PostgreSQL · CoinGecko | [▶ GitHub](https://github.com/rizalcodes/cryptovault-api) |
 | 🤖 **Web3 Analytics Telegram Bot** — 11 modules, deployed on VPS | Web3.py · Telegram API · systemd | [▶ GitHub](https://github.com/rizalcodes) |
 | 🧹 **dataqual** — CLI tool auditing CSV/Excel/PostgreSQL datasets for missing values, duplicates & outliers | Python · Typer · Pandas · Rich | [▶ GitHub](https://github.com/rizalcodes/dataqual) |
+| 📡 **apiwatch** — CLI + Telegram bot monitoring API uptime, with SLA reports & response time trend detection | Python · Typer · SQLite · Telegram API | [▶ GitHub](https://github.com/rizalcodes/apiwatch) |
 
 ---
 
