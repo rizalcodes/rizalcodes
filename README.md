@@ -57,6 +57,7 @@ class RizalCodes:
 | Project | Stack | Live |
 |---------|-------|------|
 | 🛒 **E-Commerce Price War Analysis** — Lazada vs Zalora Malaysia | Selenium · Pandas · Streamlit · Supabase | [▶ Live Demo](https://ecommerce-price-war-vhor8gqnhrgedkyqeejykx.streamlit.app) |
+| 📊 **E-Commerce BI Dashboard** — PostgreSQL-backed, Docker-deployable, interactive filters & category drill-down | Plotly Dash · PostgreSQL · Docker | [▶ GitHub](https://github.com/rizalcodes/ecommerce-bi-dashboard) |
 | 🔗 **URL Shortener + Analytics API** — GeoIP tracking, rate limiting, JWT | FastAPI · PostgreSQL · GeoIP | [▶ GitHub](https://github.com/rizalcodes/url-shortener-api) |
 | 🔐 **CryptoVault API** — Portfolio tracker with PnL analytics | FastAPI · PostgreSQL · CoinGecko | [▶ GitHub](https://github.com/rizalcodes/cryptovault-api) |
 | 🤖 **Web3 Analytics Telegram Bot** — 11 modules, deployed on VPS | Web3.py · Telegram API · systemd | [▶ GitHub](https://github.com/rizalcodes) |
@@ -78,6 +79,7 @@ class RizalCodes:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Typer](https://img.shields.io/badge/Typer-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-FF6E00?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
