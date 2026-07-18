@@ -58,6 +58,7 @@ class RizalCodes:
 |---------|-------|------|
 | 🛒 **E-Commerce Price War Analysis** — Lazada vs Zalora Malaysia | Selenium · Pandas · Streamlit · Supabase | [▶ Live Demo](https://ecommerce-price-war-vhor8gqnhrgedkyqeejykx.streamlit.app) |
 | 📊 **E-Commerce BI Dashboard** — PostgreSQL-backed, Docker-deployable, interactive filters & category drill-down | Plotly Dash · PostgreSQL · Docker | [▶ GitHub](https://github.com/rizalcodes/ecommerce-bi-dashboard) |
+| ⚡ **Realtime Analytics Platform** — Multi-user, JWT auth + RBAC, live WebSocket dashboards, Redis pub/sub & caching | FastAPI · Plotly Dash · Redis · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/realtime-analytics-platform) |
 | 🔗 **URL Shortener + Analytics API** — GeoIP tracking, rate limiting, JWT | FastAPI · PostgreSQL · GeoIP | [▶ GitHub](https://github.com/rizalcodes/url-shortener-api) |
 | 🔐 **CryptoVault API** — Portfolio tracker with PnL analytics | FastAPI · PostgreSQL · CoinGecko | [▶ GitHub](https://github.com/rizalcodes/cryptovault-api) |
 | 🤖 **Web3 Analytics Telegram Bot** — 11 modules, deployed on VPS | Web3.py · Telegram API · systemd | [▶ GitHub](https://github.com/rizalcodes) |
@@ -74,6 +75,7 @@ class RizalCodes:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
