@@ -59,6 +59,7 @@ class RizalCodes:
 | 🛒 **E-Commerce Price War Analysis** — Lazada vs Zalora Malaysia | Selenium · Pandas · Streamlit · Supabase | [▶ Live Demo](https://ecommerce-price-war-vhor8gqnhrgedkyqeejykx.streamlit.app) |
 | 📊 **E-Commerce BI Dashboard** — PostgreSQL-backed, Docker-deployable, interactive filters & category drill-down | Plotly Dash · PostgreSQL · Docker | [▶ GitHub](https://github.com/rizalcodes/ecommerce-bi-dashboard) |
 | ⚡ **Realtime Analytics Platform** — Multi-user, JWT auth + RBAC, live WebSocket dashboards, Redis pub/sub & caching | FastAPI · Plotly Dash · Redis · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/realtime-analytics-platform) |
+| 🗓️ **AutoReport** — Automated report generation & delivery via Telegram/email on a schedule, multi-user SaaS-lite | FastAPI · Streamlit · APScheduler · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/autoreport) |
 | 🔗 **URL Shortener + Analytics API** — GeoIP tracking, rate limiting, JWT | FastAPI · PostgreSQL · GeoIP | [▶ GitHub](https://github.com/rizalcodes/url-shortener-api) |
 | 🔐 **CryptoVault API** — Portfolio tracker with PnL analytics | FastAPI · PostgreSQL · CoinGecko | [▶ GitHub](https://github.com/rizalcodes/cryptovault-api) |
 | 🤖 **Web3 Analytics Telegram Bot** — 11 modules, deployed on VPS | Web3.py · Telegram API · systemd | [▶ GitHub](https://github.com/rizalcodes) |
@@ -79,6 +80,7 @@ class RizalCodes:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-F7DF1E?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Typer](https://img.shields.io/badge/Typer-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-FF6E00?style=for-the-badge&logo=python&logoColor=white)
