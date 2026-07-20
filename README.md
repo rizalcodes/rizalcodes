@@ -34,10 +34,11 @@ class RizalCodes:
     def stack(self):
         return {
             "backend"    : ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy"],
-            "data"       : ["Pandas", "Plotly", "Streamlit", "Jupyter"],
+            "data_ml"    : ["Pandas", "scikit-learn", "Plotly", "Streamlit"],
+            "streaming"  : ["Kafka", "Redis Pub/Sub"],
             "scraping"   : ["Selenium", "BeautifulSoup", "Requests"],
             "web3"       : ["Web3.py", "Etherscan API", "CoinGecko API"],
-            "devops"     : ["Linux", "VPS", "systemd", "Git"],
+            "devops"     : ["Linux", "VPS", "systemd", "Git", "Docker"],
             "auth"       : ["JWT", "REST APIs", "Alembic"],
         }
     
@@ -56,6 +57,7 @@ class RizalCodes:
 
 | Project | Stack | Live |
 |---------|-------|------|
+| 🚨 **Fraud Detection API** — Real-time Kafka streaming pipeline, Isolation Forest ML scoring, Telegram alerts, live dashboard | FastAPI · Kafka · scikit-learn · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/fraud-detection-api) |
 | 🛒 **E-Commerce Price War Analysis** — Lazada vs Zalora Malaysia | Selenium · Pandas · Streamlit · Supabase | [▶ Live Demo](https://ecommerce-price-war-vhor8gqnhrgedkyqeejykx.streamlit.app) |
 | 📊 **E-Commerce BI Dashboard** — PostgreSQL-backed, Docker-deployable, interactive filters & category drill-down | Plotly Dash · PostgreSQL · Docker | [▶ GitHub](https://github.com/rizalcodes/ecommerce-bi-dashboard) |
 | ⚡ **Realtime Analytics Platform** — Multi-user, JWT auth + RBAC, live WebSocket dashboards, Redis pub/sub & caching | FastAPI · Plotly Dash · Redis · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/realtime-analytics-platform) |
@@ -77,13 +79,14 @@ class RizalCodes:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![APScheduler](https://img.shields.io/badge/APScheduler-F7DF1E?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Typer](https://img.shields.io/badge/Typer-000000?style=for-the-badge&logo=python&logoColor=white)
-![Rich](https://img.shields.io/badge/Rich-FF6E00?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
