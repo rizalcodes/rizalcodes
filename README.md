@@ -33,6 +33,7 @@ class RizalCodes:
     @property
     def stack(self):
         return {
+            "ai_agents"  : ["Ollama", "Qwen3", "LLM Tool Calling"],
             "backend"    : ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy"],
             "data_ml"    : ["Pandas", "scikit-learn", "Plotly", "Streamlit"],
             "streaming"  : ["Kafka", "Redis Pub/Sub"],
@@ -45,6 +46,7 @@ class RizalCodes:
     @property  
     def currently(self):
         return [
+            "🤖 Shipped Genius — a local AI agent running fully offline on Qwen3 1.7B",
             "🔨 Building LLM-powered projects (RAG → AI Agent → MCP)",
             "✅ FOSSASIA open source PR #4186 merged!",
             "📊 Available for freelance — Data & Automation",
@@ -57,6 +59,7 @@ class RizalCodes:
 
 | Project | Stack | Live |
 |---------|-------|------|
+| 🤖 **Genius** — Local AI agent (Jarvis/Friday-style) running 100% offline on Qwen3 1.7B, 6 features / 25 tools, tiered permission model with confirm-gated write/execute actions | Python · Ollama · SQLite | [▶ GitHub](https://github.com/rizalcodes/genius) |
 | 🚨 **Fraud Detection API** — Real-time Kafka streaming pipeline, Isolation Forest ML scoring, Telegram alerts, live dashboard | FastAPI · Kafka · scikit-learn · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/fraud-detection-api) |
 | 🛒 **E-Commerce Price War Analysis** — Lazada vs Zalora Malaysia | Selenium · Pandas · Streamlit · Supabase | [▶ Live Demo](https://ecommerce-price-war-vhor8gqnhrgedkyqeejykx.streamlit.app) |
 | 📊 **E-Commerce BI Dashboard** — PostgreSQL-backed, Docker-deployable, interactive filters & category drill-down | Plotly Dash · PostgreSQL · Docker | [▶ GitHub](https://github.com/rizalcodes/ecommerce-bi-dashboard) |
@@ -75,6 +78,7 @@ class RizalCodes:
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
