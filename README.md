@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
-### `> Python Developer · Data Analyst · Bot Builder`
+### `> Python Developer · Backend Systems · AI-Powered Tools`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rizalcodes.github.io-10B981?style=for-the-badge&logo=github&logoColor=white)](https://rizalcodes.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rizal--portfolio--pi.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://rizal-portfolio-pi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rizalical-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizalical)
 [![Twitter](https://img.shields.io/badge/X-@rizalcodes__-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rizalcodes_)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/izall7)
@@ -27,7 +27,7 @@
 class RizalCodes:
     def __init__(self):
         self.name       = "Rizal Ical"
-        self.role       = "Python Developer & Data Analyst"
+        self.role       = "Python Developer — Backend Systems & AI"
         self.available  = True  # Open to remote work & freelance
         
     @property
@@ -36,10 +36,9 @@ class RizalCodes:
             "ai_agents"  : ["Ollama", "Qwen3", "Gemini", "LLM Tool Calling"],
             "backend"    : ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy"],
             "frontend"   : ["Next.js", "TypeScript", "Tailwind CSS"],
-            "data_ml"    : ["Pandas", "scikit-learn", "Plotly", "Streamlit"],
             "streaming"  : ["Kafka", "Redis Pub/Sub"],
+            "data_ml"    : ["Pandas", "scikit-learn", "Plotly"],
             "scraping"   : ["Selenium", "BeautifulSoup", "Requests"],
-            "web3"       : ["Web3.py", "Etherscan API", "CoinGecko API"],
             "devops"     : ["Linux", "VPS", "systemd", "Git", "Docker"],
             "auth"       : ["JWT", "REST APIs", "Alembic"],
         }
@@ -49,9 +48,9 @@ class RizalCodes:
         return [
             "🛍️ Shipped PasarKita — full-stack AI commerce platform, live in production",
             "🤖 Shipped Genius — a local AI agent running fully offline on Qwen3 1.7B",
-            "🔨 Building LLM-powered projects (RAG → AI Agent → MCP)",
+            "🔨 Building LLM-powered systems (RAG → AI Agent → MCP)",
             "✅ FOSSASIA open source PR #4186 merged!",
-            "📊 Available for freelance — Data & Automation",
+            "📊 Available for freelance — Backend & AI Automation",
         ]
 ```
 
@@ -64,13 +63,11 @@ class RizalCodes:
 | 🛍️ **PasarKita** — Full-stack AI commerce platform: RBAC (Users→Roles→Permissions), seller/admin dashboards built on demand analytics, and a retrieval-grounded AI product assistant that never invents a product | Next.js · FastAPI · PostgreSQL · Gemini | [▶ Live](https://ecommerce-ai-platform-seven.vercel.app) · [GitHub](https://github.com/rizalcodes/ecommerce-ai-platform) |
 | 🤖 **Genius** — Local AI agent (Jarvis/Friday-style) running 100% offline on Qwen3 1.7B, 6 features / 25 tools, tiered permission model with confirm-gated write/execute actions | Python · Ollama · SQLite | [▶ GitHub](https://github.com/rizalcodes/genius) |
 | 🚨 **Fraud Detection API** — Real-time Kafka streaming pipeline, Isolation Forest ML scoring, Telegram alerts, live dashboard | FastAPI · Kafka · scikit-learn · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/fraud-detection-api) |
-| 🛒 **E-Commerce Price War Analysis** — Lazada vs Zalora Malaysia | Selenium · Pandas · Streamlit · Supabase | [▶ Live Demo](https://ecommerce-price-war-vhor8gqnhrgedkyqeejykx.streamlit.app) |
-| 📊 **E-Commerce BI Dashboard** — PostgreSQL-backed, Docker-deployable, interactive filters & category drill-down | Plotly Dash · PostgreSQL · Docker | [▶ GitHub](https://github.com/rizalcodes/ecommerce-bi-dashboard) |
 | ⚡ **Realtime Analytics Platform** — Multi-user, JWT auth + RBAC, live WebSocket dashboards, Redis pub/sub & caching | FastAPI · Plotly Dash · Redis · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/realtime-analytics-platform) |
 | 🗓️ **AutoReport** — Automated report generation & delivery via Telegram/email on a schedule, multi-user SaaS-lite | FastAPI · Streamlit · APScheduler · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/autoreport) |
+| 📊 **E-Commerce BI Dashboard** — PostgreSQL-backed, Docker-deployable, interactive filters & category drill-down | Plotly Dash · PostgreSQL · Docker | [▶ GitHub](https://github.com/rizalcodes/ecommerce-bi-dashboard) |
 | 🔗 **URL Shortener + Analytics API** — GeoIP tracking, rate limiting, JWT | FastAPI · PostgreSQL · GeoIP | [▶ GitHub](https://github.com/rizalcodes/url-shortener-api) |
 | 🔐 **CryptoVault API** — Portfolio tracker with PnL analytics | FastAPI · PostgreSQL · CoinGecko | [▶ GitHub](https://github.com/rizalcodes/cryptovault-api) |
-| 🤖 **Web3 Analytics Telegram Bot** — 11 modules, deployed on VPS | Web3.py · Telegram API · systemd | [▶ GitHub](https://github.com/rizalcodes) |
 | 🧹 **dataqual** — CLI tool auditing CSV/Excel/PostgreSQL datasets for missing values, duplicates & outliers | Python · Typer · Pandas · Rich | [▶ GitHub](https://github.com/rizalcodes/dataqual) |
 | 📡 **apiwatch** — CLI + Telegram bot monitoring API uptime, with SLA reports & response time trend detection | Python · Typer · SQLite · Telegram API | [▶ GitHub](https://github.com/rizalcodes/apiwatch) |
 
@@ -139,7 +136,7 @@ class RizalCodes:
 ### `> Available for remote work & freelance`
 ### `> Let's build something useful.`
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rizalcodes.github.io-10B981?style=for-the-badge)](https://rizalcodes.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rizal--portfolio--pi.vercel.app-10B981?style=for-the-badge)](https://rizal-portfolio-pi.vercel.app)
 [![Fiverr](https://img.shields.io/badge/💼_Hire_on_Fiverr-izall7-1DBF73?style=for-the-badge)](https://fiverr.com/izall7)
 
 </div>
