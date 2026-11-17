@@ -46,6 +46,7 @@ class RizalCodes:
     @property  
     def currently(self):
         return [
+            "🔐 Shipped SecureShare — self-hosted file sharing platform with malware scanning & RBAC, deployed to production",
             "🛍️ Shipped PasarKita — full-stack AI commerce platform, live in production",
             "🤖 Shipped Genius — a local AI agent running fully offline on Qwen3 1.7B",
             "🔨 Building LLM-powered systems (RAG → AI Agent → MCP)",
@@ -60,6 +61,7 @@ class RizalCodes:
 
 | Project | Stack | Live |
 |---------|-------|------|
+| 🔐 **SecureShare** — Secure file sharing platform: malware scanning (VirusTotal) on every upload, 4 combinable share-link policies, JWT auth with refresh-token rotation, RBAC workspaces, full audit logging — deployed to a hardened VPS behind Cloudflare | Next.js · FastAPI · PostgreSQL · Celery | [▶ Live](https://sharekeep.xyz) · [GitHub](https://github.com/rizalcodes/sharekeep) |
 | 🛍️ **PasarKita** — Full-stack AI commerce platform: RBAC (Users→Roles→Permissions), seller/admin dashboards built on demand analytics, and a retrieval-grounded AI product assistant that never invents a product | Next.js · FastAPI · PostgreSQL · Gemini | [▶ Live](https://ecommerce-ai-platform-seven.vercel.app) · [GitHub](https://github.com/rizalcodes/ecommerce-ai-platform) |
 | 🤖 **Genius** — Local AI agent (Jarvis/Friday-style) running 100% offline on Qwen3 1.7B, 6 features / 25 tools, tiered permission model with confirm-gated write/execute actions | Python · Ollama · SQLite | [▶ GitHub](https://github.com/rizalcodes/genius) |
 | 🚨 **Fraud Detection API** — Real-time Kafka streaming pipeline, Isolation Forest ML scoring, Telegram alerts, live dashboard | FastAPI · Kafka · scikit-learn · PostgreSQL | [▶ GitHub](https://github.com/rizalcodes/fraud-detection-api) |
